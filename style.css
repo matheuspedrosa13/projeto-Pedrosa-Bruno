@@ -1,0 +1,10 @@
+header{
+    display: flex;
+    background-color: aqua;
+    justify-content: center;
+}
+ul{
+    display: flex;
+    gap: 5px;
+    list-style-type: none;
+}
